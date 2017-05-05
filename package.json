@@ -1,7 +1,7 @@
 {
   "name": "vlatten",
   "version": "1.0.0",
-  "description": "I hate live coding exercises. Hopefully this makes up for it.",
+  "description": "I hate live, timeboxed coding exercises. Hopefully this makes up for it.",
   "main": "dist/index.js",
   "files": [
     "bin/",
