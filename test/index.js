@@ -18,7 +18,11 @@ test("vlatten - complex cases", (t) => {
 
   const expected = [1, 2, 3, 'a']
 
-  assertVlatten(t, [1, [2], [[3], ['a']]], expected)
+  assertVlatten(
+    t,
+    [1, [2], [[3], ['a']]],
+    expected
+  )
 
   assertVlatten(
     t,
